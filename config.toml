@@ -1,3 +1,16 @@
-baseURL = "http://example.org/"
+baseURL = "http://hypedrivendev.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hype Driven Dev"
+theme = "hugo-journal"
+
+[author]
+  name = "Cédric Exbrayat"
+[params]
+  description = "Hype Driven Development"
+  githubUsername = "cexbrayat"
+  twitterUsername = "cedric_exbrayat"
+  tagline = "Because we love new stuff."
+[params.work]
+  jobTitle = "Co-founder and developer"
+  company = "Ninja Squad"
+  companyUrl = "https://ninja-squad.com/"
