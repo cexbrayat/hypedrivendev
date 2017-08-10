@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hype Driven Dev</title>
-    <link>https://cexbrayat.github.io/hypedrivendev/post/</link>
+    <link>https://hypedrivendev.io/post/</link>
     <description>Recent content in Posts on Hype Driven Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Aug 2017 14:26:18 +0200</lastBuildDate>
     
-	<atom:link href="https://cexbrayat.github.io/hypedrivendev/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hypedrivendev.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Back to blogging</title>
-      <link>https://cexbrayat.github.io/hypedrivendev/post/back-to-blogging/</link>
+      <link>https://hypedrivendev.io/post/2017/back-to-blogging/</link>
       <pubDate>Thu, 10 Aug 2017 14:26:18 +0200</pubDate>
       
-      <guid>https://cexbrayat.github.io/hypedrivendev/post/back-to-blogging/</guid>
+      <guid>https://hypedrivendev.io/post/2017/back-to-blogging/</guid>
       <description>Hey, hello there!
  It&amp;#8217;s been a while since I wrote something on my personal blog (as you may know I was busy writing an ebook about Angular).
  My old blog was using Wordpress, and I was not really into going back there :). The blog of Ninja Squad is using Jekyll, and even if it works great, I&amp;#8217;m a bit tired of it.

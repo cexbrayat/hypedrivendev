@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cexbrayat.github.io/hypedrivendev/post/back-to-blogging/</loc>
+    <loc>https://hypedrivendev.io/post/2017/back-to-blogging/</loc>
     <lastmod>2017-08-10T14:26:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cexbrayat.github.io/hypedrivendev/categories/</loc>
+    <loc>https://hypedrivendev.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cexbrayat.github.io/hypedrivendev/</loc>
-    <lastmod>2017-08-10T14:26:18+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cexbrayat.github.io/hypedrivendev/post/</loc>
+    <loc>https://hypedrivendev.io/</loc>
     <lastmod>2017-08-10T14:26:18+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cexbrayat.github.io/hypedrivendev/tags/</loc>
+    <loc>https://hypedrivendev.io/post/</loc>
+    <lastmod>2017-08-10T14:26:18+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hypedrivendev.io/tags/</loc>
     <priority>0</priority>
   </url>
   
