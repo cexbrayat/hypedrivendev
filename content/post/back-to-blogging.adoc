@@ -1,7 +1,7 @@
 ---
 title: Back to blogging
 date: 2017-08-10T14:26:18+02:00
-draft: true
+draft: false
 ---
 
 Hey, hello there!
@@ -9,7 +9,7 @@ Hey, hello there!
 It's been a while since I wrote something on my personal blog
 (as you may know I was busy writing an https://books.ninja-squad.com/angular[ebook about Angular]).
 
-My old blog was using Wordpress,
+My https://hypedrivendev.wordpress.com/[old blog] was using Wordpress,
 and I was not really into going back there :).
 The blog of Ninja Squad is using Jekyll,
 and even if it works great, I'm a bit tired of it.
@@ -43,7 +43,7 @@ the kind of fast that make you think: "OK that probably didn't work, it can't ha
 
 And the awesome feature that won it for me is the 😍native Asciidoc support😍.
 
-There is an link:/index.xml[RSS feed] if you are interested.
+There is an link:../index.xml[RSS feed] if you are interested.
 I've got a ton of drafts I written these last years
 that I plan to publish
 but I can't guarantee I'll be blogging regularly.

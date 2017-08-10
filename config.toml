@@ -1,7 +1,8 @@
-baseURL = "http://hypedrivendev.io/"
+baseURL = "https://cexbrayat.github.io/hypedrivendev/"
 languageCode = "en-us"
 title = "Hype Driven Dev"
 theme = "hugo-journal"
+publishDir = "docs"
 
 [author]
   name = "Cédric Exbrayat"
