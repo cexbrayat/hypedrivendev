@@ -1,4 +1,4 @@
-baseURL = "https://cexbrayat.github.io/hypedrivendev/"
+baseURL = "https://hypedrivendev.io/"
 languageCode = "en-us"
 title = "Hype Driven Dev"
 theme = "hugo-journal"
