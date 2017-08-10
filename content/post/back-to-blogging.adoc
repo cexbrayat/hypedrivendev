@@ -1,0 +1,52 @@
+---
+title: Back to blogging
+date: 2017-08-10T14:26:18+02:00
+draft: true
+---
+
+Hey, hello there!
+
+It's been a while since I wrote something on my personal blog
+(as you may know I was busy writing an https://books.ninja-squad.com/angular[ebook about Angular]).
+
+My old blog was using Wordpress,
+and I was not really into going back there :).
+The blog of Ninja Squad is using Jekyll,
+and even if it works great, I'm a bit tired of it.
+
+So the first task was to look for a new static blog generator.
+I https://twitter.com/cedric_exbrayat/status/895279393689538561[asked on Twitter]
+what was the popular solutions these days,
+and here are the answers I got:
+
+- https://gohugo.io[Hugo]
+- https://hexo.io[Hexo]
+- https://www.gatsbyjs.org[Gatsby]
+- http://hubpress.io[Hubpress]
+- https://ghost.org[Ghost]
+
+I gave a try to the first three.
+Gatsby is interesting, as it uses ReactJS for the templating.
+Hexo is also a JavaScript based solution, with tons of themes and plugins available.
+
+But Hugo was the more popular answer I got,
+and I've got to say it's really nice to use.
+The documentation is quite clear,
+and despite the fact I don't know shit about Go,
+I decided to go with it.
+
+So this blog is generated with Hugo,
+and uses the https://github.com/damiencaselli/hugo-journal[`hugo-journal` theme].
+It's very minimalist but it looks like it's quite easy to switch if I'm sick of it.
+Hugo is incredibly fast when you come from Jekyll,
+the kind of fast that make you think: "OK that probably didn't work, it can't have reload this fast".
+
+And the awesome feature that won it for me is the 😍native Asciidoc support😍.
+
+There is an link:/index.xml[RSS feed] if you are interested.
+I've got a ton of drafts I written these last years
+that I plan to publish
+but I can't guarantee I'll be blogging regularly.
+But, hey, I'll try.
+
+See you soon!
