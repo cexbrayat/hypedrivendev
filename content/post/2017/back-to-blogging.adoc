@@ -47,7 +47,7 @@ This is hosted on Github Pages,
 and I had to set up Cloudflare HTTP to HTTPS redirection to enable HTTPS,
 as it looks like Github Pages https://github.com/isaacs/github/issues/156[still doesn't allow it].
 
-There is an link:../index.xml[RSS feed] if you are interested.
+There is an link:../../index.xml[RSS feed] if you are interested.
 I've got a ton of drafts I written these last years
 that I plan to publish
 but I can't guarantee I'll be blogging regularly.
