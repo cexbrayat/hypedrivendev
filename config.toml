@@ -21,3 +21,5 @@ publishDir = "docs"
 [params.conference]
   name = "MiXiT"
   url = "https://mixitconf.org"
+[params.analytics]
+  key = "UA-104448127-1"
