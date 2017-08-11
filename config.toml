@@ -15,3 +15,9 @@ publishDir = "docs"
   jobTitle = "Co-founder and developer"
   company = "Ninja Squad"
   companyUrl = "https://ninja-squad.com/"
+[params.ebook]
+  name = "Become a ninja with Angular"
+  url = "https://books.ninja-squad.com/angular"
+[params.conference]
+  name = "MiXiT"
+  url = "https://mixitconf.org"
