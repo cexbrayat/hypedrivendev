@@ -6,10 +6,20 @@
     <description>Recent content on Hype Driven Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Aug 2017 14:26:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 14:26:18 +0200</lastBuildDate>
     
 	<atom:link href="https://hypedrivendev.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Going nomad for a few months</title>
+      <link>https://hypedrivendev.io/post/2017/going-nomad/</link>
+      <pubDate>Wed, 20 Sep 2017 14:26:18 +0200</pubDate>
+      
+      <guid>https://hypedrivendev.io/post/2017/going-nomad/</guid>
+      <description>A few weeks ago, I packed all my things in a box and rented my apartment in France. Since then, I&amp;#8217;ve been traveling with my girlfriend, all our lives packed in two backpacks :).
+ We plan to travel for 6 months, and to visit a few countries that we don&amp;#8217;t know yet. This is not the first time that we do this, but it&amp;#8217;s still exciting and fun and scary!</description>
+    </item>
     
     <item>
       <title>Back to blogging</title>

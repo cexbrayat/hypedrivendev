@@ -1,0 +1,50 @@
+---
+title: Going nomad for a few months
+date: 2017-09-20T14:26:18+02:00
+---
+
+A few weeks ago, I packed all my things in a box and rented my apartment in France.
+Since then, I've been traveling with my girlfriend, all our lives packed in two backpacks :).
+
+We plan to travel for 6 months, and to visit a few countries that we don't know yet.
+This is not the first time that we do this, but it's still exciting and fun and scary!
+
+We were in Spain and Portugal these last weeks, and we are going to Montreal, Canada this week.
+Then we'll move around in Quebec, go to New York City and the US East Coast until the end of November.
+
+{nbsp} +
+
+image::./first-part.png[First part]
+
+{nbsp} +
+
+Then we'll take a plane to go to Buenos Aires, Argentina and begin a road-trip to Bolivia, Chile, Patagonia,
+until we reach Ushuaia! The plan is even to go to Antarctica if we can find a not too expensive ticket on a boat.
+
+{nbsp} +
+
+image::./second-part.png[Second part]
+
+{nbsp} +
+
+I am, obviously, really happy to do this!
+I don't know if I'm a real "digital nomad", but I'll keep working a little,
+and I'll earn a part-time salary from my https://twitter.com/NinjaSquad[company].
+I'll probably continue to enhance my https://books.ninja-squad.com[ebook]
+with new chapters and the https://angular-exercises.ninja-squad.com/[online training]
+ with new advanced exercises.
+
+I'll also probably dig into new topics and write about them here.
+I may give a few trainings in person along the way,
+or give conferences at meetups,
+and I'll keep doing remote code reviews and consulting as I now often do (ping me if you are interested!).
+
+I'll also take the time to visit the wonderful places I'll be in,
+and the time to read the tons of books I already bought,
+and the tons of podcasts I've missed!
+
+If you, dear reader, happen to live in one of these countries and want to have a coffee,
+or want to work for a few hours together, I would be very happy to hear from you :)
+Or if there is a place that I shouldn't miss along the way,
+if you have a tip or a couch for two travelers, that would be awesome too!
+In any case, ping me on https://twitter.com/cedric_exbrayat/[Twitter]
